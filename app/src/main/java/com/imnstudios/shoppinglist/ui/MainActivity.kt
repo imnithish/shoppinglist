@@ -1,4 +1,4 @@
-package com.imnstudios.shoppinglist
+package com.imnstudios.shoppinglist.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
